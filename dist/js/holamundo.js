@@ -1,0 +1,1 @@
+function escribirEnConsola(){console.log("Hello Mundo")}
