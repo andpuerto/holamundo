@@ -1,2 +1,4 @@
 h1 {
-  color: green; }
+  color: #f00;
+  background-color: #00f;
+  padding: 0.5em; }
